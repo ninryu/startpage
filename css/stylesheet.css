@@ -1,4 +1,10 @@
-:root {
+
+#header3 {
+    border-right: 3px solid var(--color3);
+}
+
+#header4 {
+    border-right: 3px solid var(--color4);:root {
     --color1: white;
     --color2: white;
     --color3: white;
@@ -17,7 +23,7 @@ a {
     text-decoration: none;
     color: white;
 }
-
+/*
 h3 {
     margin: 0px;
 }
@@ -32,9 +38,9 @@ h3 {
     float: left;
 
    
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
     text-align: center;
-    color: var(--othercolor);
+    color:    "#f1d687", "#d45d44", "#4c6ea3", "#80b3b3", "#493a4d";
     padding: 20px;
 }
 
@@ -43,7 +49,7 @@ h3 {
     margin: 0px;
     padding: 20px;
 
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
     text-align: center;
     color: var(--othercolor);
     padding: 20px;
@@ -55,7 +61,7 @@ h3 {
 
 #weatherDesc, #temp, #icon1, #albumArt, lastfm {
     margin: 0px;
-}
+}*/
 
 #centerbox {
     text-align: center;
@@ -69,13 +75,13 @@ h3 {
     flex-direction: column;
 
     color: white;
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
 }
 
 #clock {
     text-align: right;
     color: var(--othercolor);
-    font-family: 'Montserrat', sans-serif;
+    font-family: Montserrat;
     margin-left: auto;
     margin-bottom: 0px;
     
@@ -153,4 +159,5 @@ h3 {
 
 #header4 {
     border-right: 3px solid var(--color4);
+}
 }
