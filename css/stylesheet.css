@@ -1,10 +1,4 @@
-
-#header3 {
-    border-right: 3px solid var(--color3);
-}
-
-#header4 {
-    border-right: 3px solid var(--color4);:root {
+:root {
     --color1: white;
     --color2: white;
     --color3: white;
@@ -159,5 +153,4 @@ h3 {
 
 #header4 {
     border-right: 3px solid var(--color4);
-}
 }
