@@ -88,6 +88,11 @@ h3 {
 #links{
     margin: 5px;
     border-spacing: 10px;
+    text-align: right;
+    color: var(--othercolor);
+    font-family: 'Montserrat', sans-serif;
+    margin-left: auto;
+    margin-bottom: 0px;
 }
 
 #bg {
