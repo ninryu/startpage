@@ -69,13 +69,13 @@ h3 {
     flex-direction: column;
 
     color: white;
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
 }
 
 #clock {
     text-align: right;
     color: var(--othercolor);
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     margin-left: auto;
     margin-bottom: 0px;
     
