@@ -17,7 +17,7 @@ a {
     text-decoration: none;
     color: white;
 }
-/*
+
 h3 {
     margin: 0px;
 }
@@ -55,7 +55,7 @@ h3 {
 
 #weatherDesc, #temp, #icon1, #albumArt, lastfm {
     margin: 0px;
-}*/
+}
 
 #centerbox {
     text-align: center;
